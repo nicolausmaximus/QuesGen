@@ -66,23 +66,26 @@ Run the application
 ## API Endpoints
 <b>/                 </b>- Home page for our application <br>
 <b>/index            </b>- page to record the audio and converts to text using webspeech API <br>
-
+<b>/questionType     </b> - Select the type of question like MCQ, Paraphrase, FAQ and boolean type
 
 ## Screenshots
-![1](https://user-images.githubusercontent.com/42286904/159449716-c8c0ae42-1954-432c-8f0d-6fa08bd54b26.jpeg)
-![2](https://user-images.githubusercontent.com/42286904/159449734-6fa1698e-4ad0-443d-a532-0e20b492d4db.jpeg)
-![3](https://user-images.githubusercontent.com/42286904/159449739-a9855e43-5f98-406d-bb90-0d86931c77e8.jpeg)
-![4](https://user-images.githubusercontent.com/42286904/159449741-330ef623-bfb2-4c28-917a-8dd166942d89.jpeg)
-![5](https://user-images.githubusercontent.com/42286904/159449747-5926caee-53cb-4593-ac67-83a13d51db9b.jpeg)
-![6](https://user-images.githubusercontent.com/42286904/159449749-f0d6373b-4027-45b8-bb60-8e7e1eaf6ea2.jpeg)
+![1](https://user-images.githubusercontent.com/42286904/162557248-524f4854-c328-417c-9d95-8fa8cf913082.jpg)
+![2](https://user-images.githubusercontent.com/42286904/162557250-81e7a34a-99ab-4a91-a28f-8d8c80b182bd.jpg)
+![3](https://user-images.githubusercontent.com/42286904/162557251-153a163b-c4bb-41b0-a275-191e72a82803.jpg)
+![4](https://user-images.githubusercontent.com/42286904/162557252-9f3c89b8-acfc-456c-9f00-c8ed38a87116.jpg)
+![5](https://user-images.githubusercontent.com/42286904/162557235-ab6d881e-9670-495a-8810-58bcf558c520.jpg)
+![6](https://user-images.githubusercontent.com/42286904/162557236-b93f1039-03ad-4f7c-9eb3-2a1dc040b68a.jpg)
+![7](https://user-images.githubusercontent.com/42286904/162557238-c7c532bd-e12e-47ac-a227-8ff62209a4ad.jpg)
+![8](https://user-images.githubusercontent.com/42286904/162557239-acf59d78-1e6a-4714-b926-afbf0b4dd75d.jpg)
+![9](https://user-images.githubusercontent.com/42286904/162557240-b8ac611b-ede1-42ef-8799-3317ee8e6080.jpg)
+![10](https://user-images.githubusercontent.com/42286904/162557241-eb75e429-3cd6-4463-b906-aff1261ada08.jpg)
+![11](https://user-images.githubusercontent.com/42286904/162557242-53bd9a48-bef8-471f-9bda-678ee5ce4e15.jpg)
+![12](https://user-images.githubusercontent.com/42286904/162557243-b095fd6b-9f28-4693-b33f-aff5f06588ed.jpg)
+![13](https://user-images.githubusercontent.com/42286904/162557245-19355824-e301-4d9b-a385-03026ef252b7.jpg)
+![14](https://user-images.githubusercontent.com/42286904/162557247-07368db7-f695-437c-a420-2e5f5ddf1241.jpg)
+![15](https://user-images.githubusercontent.com/42286904/162557326-23f1c481-9cb2-4ac3-a3a2-bba30181967e.jpg)
+![16](https://user-images.githubusercontent.com/42286904/162557328-5a93668a-4332-4517-b5a2-68d1bc8c44e0.jpg)
 
-![7](https://user-images.githubusercontent.com/42286904/161430885-965e0479-7cf0-4448-92a5-7b649eab7e56.jpeg)
-
-![8](https://user-images.githubusercontent.com/42286904/161430917-16e95298-8029-4b0c-92da-9c10dc61c557.jpg)
-![9](https://user-images.githubusercontent.com/42286904/161430939-ee6d02da-d496-4498-b067-04b8af4a419d.jpg)
-![10](https://user-images.githubusercontent.com/42286904/161430946-f44eac76-bb3f-4af5-a18a-38b709cda58f.jpg)
-![11](https://user-images.githubusercontent.com/42286904/161430957-3bb1435b-5fbd-4ebb-ae07-2a657ccaa3a7.jpg)
-![12](https://user-images.githubusercontent.com/42286904/161430962-ea029969-ae19-4292-98b9-71cfb0fafd66.jpg)
 
 
 
