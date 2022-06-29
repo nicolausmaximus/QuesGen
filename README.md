@@ -1,5 +1,20 @@
-# Question Generation from Realtime Audio
-Question Generator from live audio/online classes or for self assessments
+# Question Generation in Realtime
+Question Generator from live offline/online classes or for self assessments
+
+## Theme:
+AI/ML
+
+## Introduction:
+During the COVID-19 pandemic worldwide, the education sector had taken a toll on both teachers and student life. The students were unsure about the knowledge they are gaining during the online courses due to the lack of physical interactions. 
+We have built an application which will be able to facilitate the teachers in generating questions automatically to be given as a short assessment to the students. Other than that any individual appearing for online courses will be able to assess themselves by using our application. We plan to implement a end to end solution for assessing students and learners using 4 different kinds of question formats after getting input from various sources like text, audio, pdf and video links.
+
+## What it does:
+It takes in the audio in real time from the online course or a lecture and transcribes it to text. That text is processed to generate questions of various types like MCQ, FAQ, Paraphrase and Boolean type. We have also implemented features to directly generate questions from pdf files or youtube links.
+
+## Presentation Link:
+
+<a href="https://www.canva.com/design/DAFE9_PD88I/By-mEXzBAY-liebJQs2kiQ/view?utm_content=DAFE9_PD88I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> PPT link here </a>
+  
 
 ## Additional Packages to Install
 Sentencepiece module
@@ -95,3 +110,25 @@ Run the application
 ![2](https://user-images.githubusercontent.com/42286904/159449943-b7d03b47-c8fd-49df-9cb4-ccbafc4e73e2.jpeg)
 ## Generating False Sentences for the Boolean Questions Architecture
 ![3](https://user-images.githubusercontent.com/42286904/159449950-0c1e6267-d97f-408a-9c52-1c6377ac3725.jpeg)
+
+
+## Future Scope
+- Better Speech Recognition with CNN Model
+- Integrate with various meeting sites like teams, gmeet, zoom, etc.
+- Use specific datasets in each domain to improve the accuracy.
+- Use threads and GPU to improve the efficiency of the system.
+
+
+## Technology Stack:
+ - Flask
+ - HTML, CSS, JS
+ - Bootstrap4
+ - Jquery
+ - Python NLTK
+ - Spacy
+ - Wordnet
+ - ConceptNet
+ - BERT
+ - Sense2vec
+ - PyTorch
+  
