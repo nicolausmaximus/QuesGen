@@ -1,5 +1,5 @@
 # Question Generation in Realtime
-Question Generator from live offline/online classes or for self assessments
+Question Generator for offline/online classes and for self assessments
 
 ## Theme:
 AI/ML
@@ -15,6 +15,8 @@ It takes in the audio in real time from the online course or a lecture and trans
 
 <a href="https://www.canva.com/design/DAFE9_PD88I/By-mEXzBAY-liebJQs2kiQ/view?utm_content=DAFE9_PD88I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> PPT link here </a>
   
+## Demo:
+https://www.youtube.com/watch?v=KMsr2-YL5VM
 
 ## Additional Packages to Install
 Sentencepiece module
